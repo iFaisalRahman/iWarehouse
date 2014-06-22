@@ -1,0 +1,7 @@
+/Users/sohel/Desktop/Faisal/iwarehouse/Level1.m: In function '-[Level1 undoMove]':
+/Users/sohel/Desktop/Faisal/iwarehouse/Level1.m:408: warning: 'Level1' may not respond to '-changeBoxImage:'
+/Users/sohel/Desktop/Faisal/iwarehouse/Level1.m:408: warning: (Messages without a matching method signature
+/Users/sohel/Desktop/Faisal/iwarehouse/Level1.m:408: warning: will be assumed to return 'id' and accept
+/Users/sohel/Desktop/Faisal/iwarehouse/Level1.m:408: warning: '...' as arguments.)
+/Users/sohel/Desktop/Faisal/iwarehouse/Level1.m: In function '-[Level1 loadComplete]':
+/Users/sohel/Desktop/Faisal/iwarehouse/Level1.m:557: warning: 'Level1' may not respond to '-showLevelCompletionView'
